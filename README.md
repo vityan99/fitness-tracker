@@ -11,7 +11,7 @@
 
 ## Preview
 
-![Fitness-tracker preview](https://github.com/vityan99/fintess-tracker/blob/main/preview.png)
+![Fitness-tracker preview](https://github.com/vityan99/fitness-tracker/blob/main/preview.png)
 
 ## Содержание
 
