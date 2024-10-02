@@ -4,6 +4,7 @@
   background-color: #575d75;
   margin-bottom: 10px;
   border-radius: 5px;
+  overflow: hidden;
 }
 
 .tracker__percent-value {
